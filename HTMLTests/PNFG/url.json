@@ -1,0 +1,129 @@
+[
+  {
+    "nomeCategoria": "Cadete",
+    "nomeLiga": "División de Honor",
+    "nomeFederacion": "Andalucía",
+    "idFederacion": "and",
+    "idGrupo": "16808905",
+    "idCompeticion": "16808887",
+    "idTemporada": "15"
+  },
+  {
+    "nomeCategoria": "Femenino",
+    "nomeLiga": "Segundo División Andaluza: Almería",
+    "nomeFederacion": "Andalucía",
+    "idFederacion": "and",
+    "idGrupo": "18952727",
+    "idCompeticion": "18952726",
+    "idTemporada": "15"
+  },
+  {
+    "nomeCategoria": "Juvenil",
+    "nomeLiga": "División Nacional",
+    "nomeFederacion": "Cantabria",
+    "idFederacion": "cant",
+    "idGrupo": "6224555",
+    "idCompeticion": "6224535",
+    "idTemporada": "15"
+  },
+  {
+    "nomeCategoria": "Amateur",
+    "nomeLiga": "Preferente",
+    "nomeFederacion": "Cantabria",
+    "idFederacion": "cant",
+    "idGrupo": "6222696",
+    "idCompeticion": "6222695",
+    "idTemporada": "15"
+  },
+  {
+    "nomeCategoria": "Amateur Futbol Sala",
+    "nomeLiga": "Tercera División, Grupo 22",
+    "nomeFederacion": "Ceuta",
+    "idFederacion": "ceu",
+    "idGrupo": "1217477",
+    "idCompeticion": "1217469",
+    "idTemporada": "15"
+  },
+  {
+    "nomeCategoria": "Infantil",
+    "nomeLiga": "Liga Regular",
+    "nomeFederacion": "Ceuta",
+    "idFederacion": "ceu",
+    "idGrupo": "1227981",
+    "idCompeticion": "1198577",
+    "idTemporada": "15"
+  },
+  {
+    "nomeCategoria": "Juvenil",
+    "nomeLiga": "Preferente, Grupo 1",
+    "nomeFederacion": "Castilla y la Mancha",
+    "idFederacion": "clm",
+    "idGrupo": "1397925",
+    "idCompeticion": "1397915",
+    "idTemporada": "15"
+  },
+  {
+    "nomeCategoria": "Juvenil Fútbol Sala",
+    "nomeLiga": "División de Honor, Grupo 4",
+    "nomeFederacion": "Castilla y la Mancha",
+    "idFederacion": "clm",
+    "idGrupo": "1356210",
+    "idCompeticion": "1356209",
+    "idTemporada": "15"
+  },
+  {
+    "nomeCategoria": "Cadete",
+    "nomeLiga": "Liga Galega",
+    "nomeFederacion": "Galicia",
+    "idFederacion": "gal",
+    "idGrupo": "9536043",
+    "idCompeticion": "9260355",
+    "idTemporada": "15"
+  },
+  {
+    "nomeCategoria": "Femenino",
+    "nomeLiga": "Segunda División",
+    "nomeFederacion": "Galicia",
+    "idFederacion": "gal",
+    "idGrupo": "9662234",
+    "idCompeticion": "9279455",
+    "idTemporada": "15"
+  },
+  {
+    "nomeCategoria": "Juvenil",
+    "nomeLiga": "División Nacional",
+    "nomeFederacion": "Madrid",
+    "idFederacion": "mad",
+    "idGrupo": "10751052",
+    "idCompeticion": "10723249",
+    "idTemporada": "15"
+  },
+  {
+    "nomeCategoria": "Amateur",
+    "nomeLiga": "Preferente: Grupo 1",
+    "nomeFederacion": "Madrid",
+    "idFederacion": "mad",
+    "idGrupo": "10751676",
+    "idCompeticion": "10723209",
+    "idTemporada": "15"
+  },
+  {
+    "nomeCategoria": "Amateur",
+    "nomeLiga": "Tercera División: Grupo 16",
+      "nomeFederacion": "La Rioja",
+    "idFederacion": "rioj",
+    "idGrupo": "1431500",
+    "idCompeticion": "1431499",
+    "idTemporada": "15"
+  },
+
+  {
+    "nomeCategoria": "Feminino",
+    "nomeLiga": "Primera Nacional, Grupo 2",
+      "nomeFederacion": "La Rioja",
+    "idFederacion": "rioj",
+    "idGrupo": "1445213",
+    "idCompeticion": "1445212",
+    "idTemporada": "15"
+  }
+]

@@ -1,0 +1,40 @@
+http://www.ffrm.es/pnfg/NPcd/NFG_VisCalendario_Vis?cod_primaria=1000120&codgrupo=7363836&codcompeticion=7185707&codtemporada=15&codjornada=30&CDetalle=1
+
+
+,
+  {
+    "nomeCategoria": "Femenino",
+    "nomeLiga": "Primera División: Iberitos",
+    "nomeFederacion": "Extremadura",
+    "idFederacion": "ext",
+    "idGrupo": "4051254",
+    "idCompeticion": "4051071",
+    "idTemporada": "15"
+  },
+  {
+    "nomeCategoria": "Juvenil",
+    "nomeLiga": "División de Honor",
+    "nomeFederacion": "Extremadura",
+    "idFederacion": "ext",
+    "idGrupo": "4101805",
+    "idCompeticion": "4101770",
+    "idTemporada": "15"
+  },
+  {
+    "nomeCategoria": "Futbol Sala Femenino",
+    "nomeLiga": "Segunda División",
+    "nomeFederacion": "Murcia",
+    "idFederacion": "mur",
+    "idGrupo": "7180180",
+    "idCompeticion": "7180163",
+    "idTemporada": "15"
+  },
+  {
+    "nomeCategoria": "Juvenil",
+    "nomeLiga": "División de Honor",
+    "nomeFederacion": "Murcia",
+    "idFederacion": "mur",
+    "idGrupo": "7363836",
+    "idCompeticion": "7185707",
+    "idTemporada": "15"
+  }

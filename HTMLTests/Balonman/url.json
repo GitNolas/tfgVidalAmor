@@ -1,0 +1,40 @@
+[
+  {
+    "nomeCategoria": "Femenino Balonmano",
+    "nomeLiga": "Primera División",
+    "nomeFederacion": "Cataluña",
+    "idCompeticion": "1002125"
+  },
+
+  {
+    "nomeCategoria": "Infantil Balonmano",
+    "nomeLiga": "Lliga Catalana",
+    "nomeFederacion": "Cataluña",
+    "idCompeticion": "1003109"
+  },
+
+  {
+    "nomeCategoria": "Amateur Balonmano",
+    "nomeLiga": "Primera División",
+    "nomeFederacion": "Galicia",
+    "idCompeticion": "1002590"
+  },
+  {
+    "nomeCategoria": "Juvenil Balonmano",
+    "nomeLiga": "División de Honor",
+    "nomeFederacion": "Galicia",
+    "idCompeticion": "1002593"
+  },
+  {
+    "nomeCategoria": "Amateur Balonmano",
+    "nomeLiga": "Primera División: Grupo A",
+    "nomeFederacion": "Nacional",
+    "idCompeticion": "1001905"
+  },
+  {
+    "nomeCategoria": "Femenino Balonmano",
+    "nomeLiga": "División de Honor",
+    "nomeFederacion": "Nacional",
+    "idCompeticion": "1001824"
+  }
+]

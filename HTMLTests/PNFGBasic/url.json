@@ -1,0 +1,48 @@
+[
+  {
+    "nomeCategoria": "Infantil",
+    "nomeLiga": "Primera División: Grupo 1",
+    "nomeFederacion": "Aragon",
+    "idFederacion": "arg",
+    "idGrupo": "3518992",
+    "idCompeticion": "3518990",
+    "idTemporada": "15"
+  },
+  {
+    "nomeCategoria": "Amateur",
+    "nomeLiga": "Preferente: Grupo 1",
+    "nomeFederacion": "Aragon",
+    "idFederacion": "arg",
+    "idGrupo": "3357575",
+    "idCompeticion": "3357574",
+    "idTemporada": "15"
+  },
+  {
+    "nomeCategoria": "Femenino",
+    "nomeLiga": "Primera División: Iberitos",
+    "nomeFederacion": "Extremadura",
+    "idFederacion": "ext",
+    "idGrupo": "4051254",
+    "idCompeticion": "4051071",
+    "idTemporada": "15"
+  },
+  {
+    "nomeCategoria": "Juvenil",
+    "nomeLiga": "División de Honor",
+    "nomeFederacion": "Extremadura",
+    "idFederacion": "ext",
+    "idGrupo": "4101805",
+    "idCompeticion": "4101770",
+    "idTemporada": "15"
+  },
+  {
+    "nomeCategoria": "Futbol Sala Femenino",
+    "nomeLiga": "Segunda División",
+    "nomeFederacion": "Murcia",
+    "idFederacion": "mur",
+    "idGrupo": "7180180",
+    "idCompeticion": "7180163",
+    "idTemporada": "15"
+  }
+
+]
