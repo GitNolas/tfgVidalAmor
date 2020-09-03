@@ -27,7 +27,7 @@ class Kernel extends ConsoleKernel
      */
     protected function schedule(Schedule $schedule)
     {
-      //$schedule->command('scrapers:all')->weekdays()->dailyAt('8:00');
-      //$schedule->command('scrapers:all')->weekends()->twiceDaily(13, 23);
+      $schedule->command('scrapers:all')->weekdays()->dailyAt('8:00');
+      $schedule->command('scrapers:all')->weekends()->twiceDaily(13, 23);
     }
 }
